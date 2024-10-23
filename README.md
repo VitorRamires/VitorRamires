@@ -9,7 +9,7 @@
 
 - 📄 As minhas experiencias estão resumidas em: [https://www.linkedin.com/in/vitor-ramires-1a6b051bb/](https://www.linkedin.com/in/vitor-ramires-1a6b051bb/)
 
-<h3 align="start">Connect with me:</h3>
+<h3 align="start" margin="25px">Me conheça mais em:</h3>
 <p align="start">
 <a href="https://linkedin.com/in/vitor martins ramires" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor martins ramires" height="30" width="40" /></a>
 </p>
