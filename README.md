@@ -15,12 +15,12 @@
  </div>
  
 
-## 🌐Socials
+## 🌐Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-ramires-1a6b051bb/) 
 <br/>
 <br/>
 
-# 💻Tech Stack
+# 💻Linguagens e ferramentas
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
-# 📊GitHub Stats :
+# 📊GitHub Status :
 ![](https://github-readme-stats.vercel.app/api?username=VitorRamires&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VitorRamires&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
