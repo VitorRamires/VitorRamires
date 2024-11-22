@@ -36,8 +36,8 @@
 <br/>
 
 # 📊GitHub Status :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=VitorRamires&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=VitorRamires&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VitorRamires&theme=radical&hide_border=false)
 
 ---
