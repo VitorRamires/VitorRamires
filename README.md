@@ -2,11 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Vitor+Ramires!;" />
 </h1>
 
-<h3 align="center">Desenvolvedor focado em front-end atualmente</h3>
+<h1> Desenvolvedor focado em front-end atualmente</h1>
+
 
 <br/>
 
-<div align="center">
+<div>
 
  🔭 Atualmente trabalhando com **uma plataforma de gestão**
  
@@ -16,18 +17,20 @@
  
 
 ## 🌐Social
+<div>
   <a href="https://www.linkedin.com/in/vitor-ramires-1a6b051bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://vitormartins.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+</div>
 <br/>
 <br/>
 
 # 💻Linguagens e ferramentas
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=github,figma,git,nodejs" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,photoshop,figma" /><br>
