@@ -9,7 +9,7 @@
 
 <div>
 
- 🔭 Atualmente trabalhando com **uma plataforma de gestão**
+ 🔭 Atualmente trabalhando com **uma plataforma de gestão e projetos pessoais**
  
  🌱 Atualmente estudando **React e Vue.js**
 
