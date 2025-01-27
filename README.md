@@ -30,7 +30,7 @@
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=github,figma,git,nodejs" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,photoshop,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,photoshop" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,docker,vue,django" />
 </div>
 <br/>
