@@ -11,7 +11,7 @@
 
  🔭 Atualmente trabalhando com **uma plataforma de gestão e projetos pessoais**
  
- 🌱 Atualmente estudando **React, Vue.js e Typescript**
+ 🌱 Atuando com **React** e estudando **Vue.js e Typescript**
 
  </div>
  
