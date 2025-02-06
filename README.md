@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Vitor+Ramires!;" />
 </h1>
 
-<h1> Desenvolvedor focado em front-end atualmente</h1>
+<h1> Desenvolvedor focado em Front-end atualmente</h1>
 
 
 <br/>
