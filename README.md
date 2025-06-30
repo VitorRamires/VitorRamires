@@ -10,8 +10,7 @@
 <div>
 
  🔭 Atualmente trabalhando com **uma plataforma de gestão e projetos pessoais**
- 
- 🌱 estudando **Principalmente React, mas também Typescript**
+  🌱 estudando **Principalmente React, mas também Typescript**
 
  </div>
  
@@ -21,6 +20,7 @@
   <a href="https://www.linkedin.com/in/vitor-ramires-1a6b051bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://vitorramires.netlify.app/" target="_blank">Portifólio</a>
 </div>
 <br/>
 <br/>
