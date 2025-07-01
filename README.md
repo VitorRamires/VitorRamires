@@ -10,7 +10,8 @@
 <div>
 
  🔭 Atualmente trabalhando com **uma plataforma de gestão e projetos pessoais**
-  🌱 Atuando com **React e Javascript e estudando Typescript**
+ <br/>
+🌱 Atuando com **React e Javascript e estudando Typescript**
 
  </div>
  
