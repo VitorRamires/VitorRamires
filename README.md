@@ -1,22 +1,23 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Vitor+Ramires!;" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&Left=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Vitor+Ramires!;" />
 </h1>
 
-<h1> Desenvolvedor focado em Front-end atualmente</h1>
+<p align="left">Desenvolvedor em formação, atualmente com foco em front-end e futuramente fullstack com focosoluções visuais para empresas de diversos segmentos.Focado muito em aprender e me desenvolver, procurando melhorar cada vez mais através das minhas experiências e projetos pessoais.</p>
 
-
-<br/>
+## Sobre mim
 
 <div>
-
- 🔭 Atualmente trabalhando com **uma plataforma de gestão e projetos pessoais**
+ - 🔭 Atualmente trabalhando com uma plataforma de gestão e projetos pessoais
  <br/>
-🌱 Atuando com **React e Javascript e estudando Typescript**
-
+- 🌱 Focado no aprendizado de com React, Typescript e Tailwind
+<br/>
+- 🎓 Cursando bacharel em Ciências da Computação
  </div>
- 
+
+<br />
 
 ## 🌐Social
+
 <div>
   <a href="https://www.linkedin.com/in/vitor-ramires-1a6b051bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -25,27 +26,35 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" />
   </a>
 </div>
-<br/>
-<br/>
 
-# 💻Linguagens e ferramentas
-<br/>
+<br />
+
+## 💻Tecnologias e Ferramentas
+
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=github,figma,git,nodejs" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,photoshop" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,docker,vue,django,vite,npm," />
 </div>
-<br/>
 
-# 📊GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorRamires&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<br />
 
----
-[![](https://visitcount.itsvg.in/api?id=VitorRamires&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊GitHub Stats
 
+<a href="https://github.com/eduardavieira-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRamires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires&layout=compact&langs_count=6&theme=tokyonight"/>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardavieira-dev.eduardavieira-dev&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+
+<br />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=VitorRamires&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=VitorRamires&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
 
 
 
