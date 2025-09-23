@@ -9,7 +9,7 @@
 <div>
  - 🔭 Atualmente trabalhando com uma plataforma de gestão e projetos pessoais
  <br/>
-- 🌱 Focado no aprendizado de com React, Typescript e Tailwind
+- 🌱 Focado no aprendizado de com React e Typescript
 <br/>
 - 🎓 Cursando bacharel em Ciências da Computação
  </div>
