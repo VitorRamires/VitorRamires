@@ -7,7 +7,7 @@
 ## Sobre mim
 
 <div>
- - 🔭 Atualmente trabalhando com uma plataforma de gestão e projetos pessoais
+ - 🔭 Atualmente trabalhando com uma plataforma de gestão.
  <br/>
 - 🌱 Focado no aprendizado de com React e Typescript
 <br/>
