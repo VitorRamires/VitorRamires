@@ -7,6 +7,7 @@
 ## Sobre mim
 - Focado no aprendizado de React e Typescript
 - Cursando Ciências da Computação
+- 💻 Criando projetos para evoluir minhas habilidades.
  </div>
 
 <br />
@@ -38,12 +39,7 @@
 ## 📊 GitHub Stats
 
 <div align="left" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRamires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires&layout=compact&langs_count=6&theme=tokyonight"/>
-<div/>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=VitorRamires&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" align=""center alt="streak graph" /> <br/>
+  | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorRamires&theme=tokyonight" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorRamires&theme=tokyonight" height="200"/> |
 <div/>
 
 <br />
