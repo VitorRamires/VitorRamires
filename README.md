@@ -7,7 +7,7 @@
 ## Sobre mim
 - Estudando e atuando com React e Typescript
 - Cursando Ciências da Computação
-- 💻 Criando projetos para evoluir minhas habilidades.
+- 💻 Criando projetos e estudando para evoluir minhas habilidades.
  </div>
 
 <br />
