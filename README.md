@@ -5,7 +5,7 @@
 <p align="left">Desenvolvedor atualmente com foco em front-end e futuramente fullstack e que busca estar sempre atualizado para resolver soluções de forma eficiente e objetiva. Atualmente focado em aprender e me desenvolver, procurando melhorar cada vez mais através de novos projetos e experiências profisisonais.</p>
 
 ## Sobre mim
-- Atuando com React e Typescript
+- Atuando com React, Typescript e Javascript
 - Cursando Ciências da Computação
 - 💻 Criando projetos e estudando para evoluir minhas habilidades.
  </div>
