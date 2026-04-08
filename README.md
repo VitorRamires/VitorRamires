@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&Left=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Vitor+Ramires!;" />
 </h1>
 
-<p align="left">Desenvolvedor em formação, atualmente com foco em front-end e futuramente fullstack e que busca estar sempre atualizado para resolver soluções de forma eficiente e objetiva. Atualmente focado em aprender e me desenvolver, procurando melhorar cada vez mais através de novos projetos e experiências profisisonais.</p>
+<p align="left">Desenvolvedor atualmente com foco em front-end e futuramente fullstack e que busca estar sempre atualizado para resolver soluções de forma eficiente e objetiva. Atualmente focado em aprender e me desenvolver, procurando melhorar cada vez mais através de novos projetos e experiências profisisonais.</p>
 
 ## Sobre mim
 - Atuando com React e Typescript
